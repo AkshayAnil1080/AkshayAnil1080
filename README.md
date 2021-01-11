@@ -3,4 +3,4 @@
 </p>
 
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=chandrikadeb7 alt=chandrikadeb7/></p>
+<p align="left"><p> Profile Views </p><img src="https://hitwebcounter.com/counter/counter.php?page=7738125&style=0023&nbdigits=9&type=page&initCount=101" title="Free Counter" Alt="web counter"   border="0" />  </p>
