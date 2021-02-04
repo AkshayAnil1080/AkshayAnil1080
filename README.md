@@ -12,5 +12,5 @@
 ### What are my featured projects:question::rocket:
 <code>[100DaysOfCode](https://github.com/AkshayAnil1080/DS-Algo)</code>:hourglass:     
 <code>[RH294 Automation](https://github.com/AkshayAnil1080/RH294-AnsibleAutomation-)</code>:bulb:  
-<code>[IntegrationOfTechnology](https://github.com/AkshayAnil1080/LinuxWorldInternship)</code>:computer: 
+<code>[IntegrationOfTechnology](https://github.com/ARTH-TASKS)</code>:computer: 
 
