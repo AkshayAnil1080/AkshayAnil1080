@@ -13,13 +13,12 @@
 <code>[100DaysOfCode](https://github.com/AkshayAnil1080/DS-Algo)</code>:hourglass:     
 <code>[RH294 Automation](https://github.com/AkshayAnil1080/RH294-AnsibleAutomation-)</code>:bulb:  
 <code>[IntegrationOfTechnology](https://github.com/ARTH-TASKS)</code>:computer: 
-###
 
-<b>My GitHub contributions as a Game of Life</b>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/AkshayAnil1080.gif?z=6)](https://github4life.herokuapp.com/AkshayAnil1080)
+<!-- <b>My GitHub contributions as a Game of Life</b>
 
-##
+[![GitHub Game of Life](https://github4life.herokuapp.com/AkshayAnil1080.gif?z=6)](https://github4life.herokuapp.com/AkshayAnil1080) -->
+
 
 ## Quick Overview 📝
     
